@@ -1,2 +1,9 @@
 # Gitcoin-Refi-Summer-Design-Challenge-2022
-Graphic Illustration concept for Gitcoin GR-14 Refi Summer Design Challenge 2022
+
+As East Africa, let alone Africa is labeled “The Cradle of Mankind”, this means that East Africa is consequently also the cradle of technology and innovation. Technology has been on an upward spiral since the earliest forms of modern humans first walked the Earth. This shows the gradual evolution of technology from the simple discovery of fire and crude tools to the use of the same for various functions including survival and sending communication signals over long distances. Fast forward, significant technological advances from the 19th Century to date led to the invention of computing devices and the internet as we know it enabling us to easily communicate from anywhere in the world, automate difficult tasks and even push agendas such as Environment conservation to tackle climate change. Now, with the recent progress in blockchain, we are seemingly transitioning into the future of technology therefore, adoption of this tech is an effective way of advocating for the general cause. Web3 DApplications seek to take over from their Web2 predecessors leading us into a decentralized world where we can build better, trustless blockchain-based applications most of which we have not yet even imagined. The above evolution timeline in itself paints a clear picture of the sheer longevity of tech. 
+
+This art concept takes us all the way back to the Cradle of Mankind, setting us off on an adventure as we use the iconic African print designs with some of the actual traditional print components substituted with components representing blockchain tech wrapping over a healthy ecosystem of thriving animal and plant life achievable only by observing climate change mitigation measures. 
+
+               Instagram: @Bleyle_ 
+               Discord: Bleyle#8374
+
